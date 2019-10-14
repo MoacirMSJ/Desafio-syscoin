@@ -5,5 +5,6 @@ const app = express();
 
 app.use(express.json());
 app.use(routes);
+const port = process.env.PORT || 3001;
 
-app.listen(3001);
+app.listen(port);
