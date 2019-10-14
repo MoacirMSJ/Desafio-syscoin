@@ -15,15 +15,15 @@ Aplicação disponível em: [Desafio-syscoin](https://shrouded-temple-18965.hero
  
 ## Passos para utilização.
 
-### 1. Faça o download ou clone o projeto.
+#### 1. Faça o download ou clone o projeto.
 
 #### 2. No diretório do projeto (pelo terminal) insira o seguinte comando:
     npm install
     
-### 3. Após a instalação digite o seguinte comando.
+#### 3. Após a instalação digite o seguinte comando.
     npm run dev.
 
-### 4. Abra o navegador e insira a seguinte url:
+#### 4. Abra o navegador e insira a seguinte url:
 
 http://localhost:3001/provasyscoin?user="syscoin"&password="meEscolhe"
 
